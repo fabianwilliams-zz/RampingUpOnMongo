@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MongoConfiguration">
+    <option name="serverConfigurations">
+      <list>
+        <ServerConfiguration>
+          <option name="label" value="Localhost" />
+          <option name="serverUrls">
+            <list>
+              <option value="localhost:27017" />
+            </list>
+          </option>
+        </ServerConfiguration>
+        <ServerConfiguration>
+          <option name="label" value="FabianAzure" />
+          <option name="password" value="1234Zxcv" />
+          <option name="serverUrls">
+            <list>
+              <option value="ds034208.mongolab.com:34208" />
+            </list>
+          </option>
+          <option name="userDatabase" value="FabianMongoLab" />
+          <option name="userDatabaseAsMySingleDatabase" value="true" />
+          <option name="username" value="fabianwilliams" />
+        </ServerConfiguration>
+      </list>
+    </option>
+    <option name="shellPath" value="/usr/local/Cellar/mongodb/3.0.4/bin/mongo" />
+  </component>
+</project>

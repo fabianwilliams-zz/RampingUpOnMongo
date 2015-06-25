@@ -1,0 +1,99 @@
+﻿{
+    "name":"The Infinite",
+    "type":"Amber Ale",
+    "abv":5.0,
+    "ibu":19,
+    "taste":"Easy drinking and infinitely smooth, this amber ale is classic in style yet uniquely approachable. Hits of roast and caramel lend to a slightly sweet malt with a semi-dry finish. Perfectly pint-worthy.",
+    "proname":"https://jailbreakbrewing.com/wp-content/uploads/2015/04/theinfiniteamberalelabel.jpg",
+    "srm":"https://jailbreakbrewing.com/wp-content/uploads/2015/05/SRM-14.png"
+},
+{
+    "name":"Feed The Monkey",
+    "type":"Orange Hefeweizen",
+    "abv":6.0,
+    "ibu":14,
+    "taste":"A german style hefeweizen that combines traditional notes of clove and banana with subtle citrus aromas and flavors to provide balance and complexity. With this hefeweizen,theres no fruit required we have it covered",
+    "proname":"https://jailbreakbrewing.com/wp-content/uploads/2015/04/feedmonkeylabelnew.jpg",
+    "srm":"https://jailbreakbrewing.com/wp-content/uploads/2015/04/SRM-2.png"
+},
+{
+    "name":"Welcome To Scoville",
+    "type":"Jalapeño IPA",
+    "abv":6.9,
+    "ibu":74,
+    "taste":"An artisanal style IPA combining mildly bitter hops, garden fresh jalapeño peppers and cilantro. With a moderate malt profile, this culinary concoction offers both an easy drinking IPA and a bowl full of jalapeños without the burn of bittering one might expect. Never would Scoville have imagined such a fitting match for the worlds perfect pepper",
+    "proname":"https://jailbreakbrewing.com/wp-content/uploads/2015/04/welcometoscovillelabel.jpg",
+    "srm":"https://jailbreakbrewing.com/wp-content/uploads/2015/05/SRM-10.png"
+},
+{
+    "name":"Big Punisher",
+    "type":"Double IPA",
+    "abv":8.5,
+    "ibu":93,
+    "taste":"A well balanced double IPA with a semisweet malt backbone and complimented with generous amounts of citrus and tropical fruit hops. Rich, delicious and rewardingly punishing.",
+    "proname":"https://jailbreakbrewing.com/wp-content/uploads/2015/04/bigpunisher.jpg",
+    "srm":"https://jailbreakbrewing.com/wp-content/uploads/2015/05/SRM-10.png"
+},
+{
+    "name":"Ryemin Stealin",
+    "type":"Spiced Rye Ale",
+    "abv":6.5,
+    "ibu":52,
+    "taste":"A palate dominating rye with a firm malt backbone that provides notes of caramel and toffee. Cardamom and peppercorn lead a spicy component that compliments the malt profile and light hop additions. Ryeme steal your way into a pint of total rye domination.",
+    "proname":"https://jailbreakbrewing.com/wp-content/uploads/2015/04/ryeminandstealinlabel.jpg",
+    "srm":"https://jailbreakbrewing.com/wp-content/uploads/2015/05/SRM-16.png"
+},
+{
+    "name":"Desserted",
+    "type":"Chocolate Coconut Porter",
+    "abv":6.9,
+    "ibu":22,
+    "taste":"An all natural concoction of flavors, Desserted is a balanced porter complimented with toasted coconut and dark chocolate. Semi sweet though not stick, its a guilt free dessert in a glass.",
+    "proname":"https://jailbreakbrewing.com/wp-content/uploads/2015/04/dessertedlabel.jpg",
+    "srm":"https://jailbreakbrewing.com/wp-content/uploads/2015/05/SRM-38.png"
+},
+{
+    "name":"Into The Dark",
+    "type":"Stout",
+    "abv":6.0,
+    "ibu":57,
+    "taste":"Fashioned as a nod to the stouts of old, this stout focuses on the natural roastiness of the malt and adds subtle complimentary notes of caramel, dark chocolate, and dried dark fruits. Clean, dry, and crisp. Lights out.",
+    "proname":"https://jailbreakbrewing.com/wp-content/uploads/2015/04/intothedarklabel.jpg",
+    "srm":"https://jailbreakbrewing.com/wp-content/uploads/2015/05/SRM-38.png"
+},
+{
+    "name":"Q.Cumber",
+    "type":"Cucumber Saison",
+    "abv":7.4,
+    "ibu":14,
+    "taste":"We have taken saison to new heights with the addition of cucumber, gin botanicals, rosewater and a hint of caraway. Slightly sweet on the front and refreshingly dry on the finish, this farmhouse ale is all about depth, complexity and a nod to the purity of Mother Nature.",
+    "proname":"https://jailbreakbrewing.com/wp-content/uploads/2015/04/qcumberlabel.jpg",
+    "srm":"https://jailbreakbrewing.com/wp-content/uploads/2015/05/SRM-6.png"
+},
+{
+    "name":"B.Limey",
+    "type":"Key Lime Pale Ale",
+    "abv":4.8,
+    "ibu":43,
+    "taste":"B. Limey is a perfect marriage of a clean, crisp, and dry malt backbone and the bright acidity of pure key lime and fresh lemongrass.",
+    "proname":"https://jailbreakbrewing.com/wp-content/uploads/2015/04/blimeylabel.jpg",
+    "srm":"https://jailbreakbrewing.com/wp-content/uploads/2015/05/SRM-6.png"
+},
+{
+    "name":"The Carrot Cake Conspiracy",
+    "type":"Carrot Cake Amber Ale",
+    "abv":6.7,
+    "ibu":21,
+    "taste":"An Amber ale infused with lightly roasted carrots and a blend of fall seasonal spices. We conspired to create an ale that will help you escape the pumpkin parade.",
+    "proname":"https://jailbreakbrewing.com/wp-content/uploads/2015/04/carrotcakelabel.jpg",
+    "srm":"https://jailbreakbrewing.com/wp-content/uploads/2015/05/SRM-24.png"
+},
+{
+    "name":"Made Wit Basil",
+    "type":"Basil Witbier",
+    "abv":5.0,
+    "ibu":0,
+    "taste":"A variation of the classical Belgian style wheat beer with traditional notes of bitter oranges peel and coriander, infused with copious amount of fresh basil. Unfiltered and unapologetically abnormal.",
+    "proname":"https://jailbreakbrewing.com/wp-content/uploads/2015/04/madewitbasillabel.jpg",
+    "srm":"https://jailbreakbrewing.com/wp-content/uploads/2015/05/SRM-4.png"
+}
